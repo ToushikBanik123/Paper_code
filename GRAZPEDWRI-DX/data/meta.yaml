@@ -1,8 +1,8 @@
 # patch: /path/to/GRAZPEDWRI-DX/data
-path: '../GRAZPEDWRI-DX/data'
-train: ../train/images
-val: ../valid/images
-test: ../test/images
+path: '/content/Paper_code/GRAZPEDWRI-DX/data/'
+train: 'images/train_aug'
+val: 'images/valid'
+test: 'images/test'
 
 nc: 7
 names: ['fish', 'jellyfish', 'penguin', 'puffin', 'shark', 'starfish', 'stingray']
