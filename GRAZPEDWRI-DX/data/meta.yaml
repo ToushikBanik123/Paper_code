@@ -1,6 +1,6 @@
 # patch: /path/to/GRAZPEDWRI-DX/data
 #path: '/content/Paper_code/GRAZPEDWRI-DX/data/'
-path: 'Paper_code/GRAZPEDWRI-DX/data/'
+path: '/kaggle/working/Paper_code/GRAZPEDWRI-DX/data/'
 train: 'images/train_aug'
 val: 'images/valid'
 test: 'images/test'
